@@ -52,4 +52,10 @@ body{
     font-size: 2.5rem;
 }
 
-
+@media screen and (max-width:410px) {
+    .calculator-grid{
+        background-color: white;
+        padding: 0;
+    }
+   
+}
